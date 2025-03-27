@@ -13,17 +13,22 @@ ce repo est un RAG en python créant et remplissant une base de données vectori
 * ollama pull mistral  
 * ollama pull nomic-embed-text
 * ollama serve  
-
+  
 * ollama list  
-* go to localhost:11434  
+* go to localhost:11434
 
-
+  
 * Créer un venv
+* pip install -r requirements.txt
 
 ### Database
-
+* mettre ses documents dans un dossier data à la racine du projet
+* lancer le script populate_database.py
+  
 ### RAG
-
+* lancer le script query_rag.py
+* poser sa question
+  
 ## TODO
 
 
