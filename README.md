@@ -1,7 +1,7 @@
 # RAG
 
 ## Introduction
-ce repo est un RAG en python
+ce repo est un RAG en python créant et remplissant une base de données vectorielle ChromaDB de données de documents fournis en entrée, puis répondant à des questions concernant ces documents.
 
 ## Structure
 
@@ -20,6 +20,9 @@ ce repo est un RAG en python
 
 * Créer un venv
 
+### Database
+
+### RAG
 
 ## TODO
 
