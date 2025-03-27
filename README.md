@@ -1,7 +1,7 @@
 # RAG
 
 ## Introduction
-Ce repo est un benchmark de differents packages python visant à extraire le texte d'un pdf.
+ce repo est un RAG en python
 
 ## Structure
 
